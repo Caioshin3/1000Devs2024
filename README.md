@@ -5,10 +5,20 @@
 
 # Projeto dos 1000 Devs 
 
- Crie a pasta com o nome do seu github, adicione os códigos e tarefas que fizer.
+## Objetivo
+Criar um projeto Open Source para o 1000Devs 2024
+
+## Ferramentas
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+
+### Contribua com sua pasta pessoal
+Para contribuir neste repositório, uma das formas é através da contribuição no diretório "**Projetos**", criando uma pasta contendo informações sobre você que deseje compartilhar com a comunidade. <br>
+Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou; sub diretórios com códigos e atividades, etc.
 
  > [!NOTE]   
 > A ideia do projeto é que a comunidade 1000Devs 2024 contribua com adições, melhorias, correções e ++
+
 
 ## Convenções dos commits
 

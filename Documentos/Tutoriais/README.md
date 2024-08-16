@@ -1,3 +1,3 @@
 ## Tutorial - Git e Github
 
-<iframe width="560" height="315" src="URL_DO_VIDEO" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://github.com/user-attachments/assets/789695b7-e5d4-40e7-b149-e43410a6cb5c

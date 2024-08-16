@@ -7,6 +7,9 @@
 
  Crie a pasta com o nome do seu github, adicione os códigos e tarefas que fizer.
 
+ > [!NOTE]   
+> A ideia do projeto é que a comunidade 1000Devs 2024 contribua com adições, melhorias, correções e ++
+
 ## Convenções dos commits
 
 Os commits devem seguir a seguinte covenção:

@@ -7,7 +7,7 @@ __Meu objetivo é me tornar um desenvolvedor Full Stack. Estou continuamente bus
 
   <img align="center" alt="Logo Dg Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"><img align="center" alt="Dg-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Dg-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="Dg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Dg-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
-### Minhas redes socias :
+### Minhas redes socias:
 
 <div>
 <a href = "https://meu-portifolio-dg.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-portif%C3%B3lio-%2523E4405F%3F?style=for-the-badge&logoColor=white&labelColor=986dff&color=986dff&cacheSeconds=3360" target="_blank">

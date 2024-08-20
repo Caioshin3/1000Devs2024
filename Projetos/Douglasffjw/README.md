@@ -1,7 +1,7 @@
 __Olá, meu nome é __Douglas Freitas__, tenho 22 anos moro em Fortaleza, CE. Sempre tive uma grande paixão por tecnologia, mas meu verdadeiro mergulho no mundo da TI começou no início de 2022, quando iniciei minha graduação em Análise e Desenvolvimento de Sistemas. Desde então, tenho me dedicado intensamente aos estudos e descobri que essa é a área que desejo seguir profissionalmente.__
 
 
-__Meu objetivo é me tornar um desenvolvedor Full Stack. Estou continuamente buscando expandir meus conhecimentos e habilidades através de estudos diários e projetos práticos. Essa oportunidade de participar dessa nova turma da 1000devs com certeza foi uma grande oportunidade pra mim obter mais conhecimentos de Desenvolvimento de Software e também fazer uma Network com a galera e aprimorar minhas Softkills!__
+__Meu objetivo é me tornar um desenvolvedor Full Stack. Estou continuamente buscando expandir meus conhecimentos e habilidades através de estudos diários e projetos práticos. Essa oportunidade de participar da nova turma da 1000devs com certeza foi uma grande oportunidade pra mim obter mais conhecimentos de Desenvolvimento de Software e também fazer uma Network com a galera e aprimorar minhas Softkills!__
 
 ### As tecnologias que eu obtenho um pouco de conhecimentos é:
 

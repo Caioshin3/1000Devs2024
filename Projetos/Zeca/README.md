@@ -1,17 +1,23 @@
 ### Redes
 
-[Github](github.com/ze-fernando)
+[![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](github.com/ze-fernando)
 
-[Linkedin](linkedin.com/in/jf-libarino)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jf-libarino/)
 
-[Portifolio](ze-fernando.netlify.app)
+
+[![Netlify](https://img.shields.io/badge/Portifólio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](ze-fernando.netlify.app)
 
 ### Projetos
 
-[Api de biblioteca em java](github.com/ze-fernando/LibraryAPI)
 
-[Simulador de pagamentos em python](github.com/ze-fernando/SimplePayment-API)
+[![Python](https://img.shields.io/badge/Todo_List-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](github.com/ze-fernando/Todo-list)
 
-[Todo-List em python](github.com/ze-fernando/Todo-list)
+[![Java](https://img.shields.io/badge/Api_de_biblioteca-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](github.com/ze-fernando/LibraryAPI)
 
-[Api de autenticação em java](github.com/ze-fernando/Auth-Api)
+[![Java](https://img.shields.io/badge/Api_de_autenticação-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](github.com/ze-fernando/Auth-Api)
+
+[![Python](https://img.shields.io/badge/Simulador_de_pagamentos-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](github.com/ze-fernando/SimplePayment-API)
+
+
+
+

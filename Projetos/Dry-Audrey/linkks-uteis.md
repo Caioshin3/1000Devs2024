@@ -6,7 +6,10 @@ Se você está procurando expandir seus conhecimentos em tecnologia, tenho uma �
 
 Aqui está o link para acessar os livros:
 
-👉 [Acessar Livros de Tecnologia](https://drive.google.com/drive/folders/1wAprjY4UHA7wowNO4DufbmVaud24OBFO?usp=sharing)
+👉 [Acessar Livros de Tecnologia](https://drive.google.com/drive/folders/1wAprjY4UHA7wowNO4DufbmVaud24OBFO?usp=sharing)<br>
+👉 [W3C - de Java - site gratuito com conceitos e exercicios](https://www.w3schools.com/java/default.asp)
+
+
 
 Espero que esses materiais sejam úteis para você!
 

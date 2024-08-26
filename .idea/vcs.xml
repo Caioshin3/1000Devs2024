@@ -2,5 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projetos/Dry-Audrey/Exercicios/com.audrey.exercicio.fundamentos" vcs="Git" />
   </component>
 </project>
